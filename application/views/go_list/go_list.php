@@ -2996,7 +2996,7 @@ echo "<body onload='genListID()'>";
 						<td align="right"><label class="modify-value">Phone Code: </label></td>
 						<td>
 								<select name="phone_code_override">
-                        	<option value='in_file'>Load from Lead File</option>
+                        	<option value=''>Load from Lead File</option>
                         	<?php
 						//echo '<option value="1" selected>1---USA</option>';
                         		foreach($phonedoces as $listcodes) {
