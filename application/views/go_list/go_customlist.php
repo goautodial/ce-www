@@ -851,6 +851,7 @@ body {
 										<option value="TIME">TIME</option>
 										<option value="DISPLAY">DISPLAY</option>
 										<option value="SCRIPT">SCRIPT</option>
+										<option value="HIDDEN">HIDDEN</option>
 										</select>
 							</td></tr>
 							<tr><td> <label class="modify-value">Options:</label></td><td> <textarea name="field_options" id="field_options" style="resize: none;" ROWS="2" COLS="40"></textarea> 
